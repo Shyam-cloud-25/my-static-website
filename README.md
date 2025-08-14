@@ -19,7 +19,7 @@ Click the badge above to view the live site hosted on GitHub Pages.
 - Professional project documentation
 
 ## Screenshots
-Below are key screenshots showcasing the site:
+Below are key screenshots showcasing the site:   
 [Homepage](screenshots/home-page.png)   
 [Error Page](screenshots/error.png)   
 *All other AWS setup screenshots are available in the `screenshots/` folder.*
