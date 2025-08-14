@@ -1,7 +1,7 @@
 # AWS S3 Static Website Project:
 
 ## Project Overview
-This is a **static website hosted on AWS S3**, built as a student project to demonstrate AWS cloud skills.  
+This is a **static website hosted on AWS S3**, built as a project to demonstrate AWS cloud skills.  
 The website shows an interactive homepage and a custom error page.
 
 ## Features
