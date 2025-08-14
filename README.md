@@ -4,7 +4,7 @@
 This is a **static website hosted on AWS S3**, built as a project to demonstrate AWS cloud skills.  
 The website shows an interactive homepage and a custom error page.
 ## Live Demo
-[![View Site - Online](https://img.shields.io/badge/View%20Site-Online-brightgreen)](https://shyam-cloud-25.github.io/my-static-website/)
+[![View Site - Online](https://img.shields.io/badge/View%20Site-Online-brightgreen)](https://shyam-cloud-25.github.io/my-static-website/)  
 Click the badge above to view the live site hosted on GitHub Pages.
 
 ## Features
@@ -20,8 +20,8 @@ Click the badge above to view the live site hosted on GitHub Pages.
 
 ## Screenshots
 Below are key screenshots showcasing the site:
-[Homepage](screenshots/home-page.png)
-[Error Page](screenshots/error.png)
+[Homepage](screenshots/home-page.png)   
+[Error Page](screenshots/error.png)   
 *All other AWS setup screenshots are available in the `screenshots/` folder.*
 
 ## Steps Followed
