@@ -5,6 +5,7 @@ This is a **static website hosted on AWS S3**, built as a project to demonstrate
 The website shows an interactive homepage and a custom error page.
 ## Live Demo
 [![View Site - Online](https://img.shields.io/badge/View%20Site-Online-brightgreen)](https://shyam-cloud-25.github.io/my-static-website/)
+Click the badge above to view the live site hosted on GitHub Pages.
 
 ## Features
 - IAM user creation and permissions
@@ -12,11 +13,16 @@ The website shows an interactive homepage and a custom error page.
 - Versioning enabled for files
 - Cache-Control headers to serve latest content
 - Custom 404 error page
-- Interactive homepage with a welcome message
+- Personalized homepage with a welcome message
+- Leightweight and fully static
+- Demonstrates GitHub Pages deployment workflow
+- Professional project documentation
 
 ## Screenshots
+Below are key screenshots showcasing the site:
 [Homepage](screenshots/home-page.png)
 [Error Page](screenshots/error.png)
+*All other AWS setup screenshots are available in the `screenshots/` folder.*
 
 ## Steps Followed
 1. Created an IAM user with S3 full access permissions
@@ -30,4 +36,7 @@ The website shows an interactive homepage and a custom error page.
 - Managing IAM users and permissions  
 - Browser caching and Cache-Control headers  
 - Versioning in S3 buckets
+
+## License
+This project is open for learning and portfolio purposes.
 
