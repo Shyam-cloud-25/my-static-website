@@ -3,6 +3,8 @@
 ## Project Overview
 This is a **static website hosted on AWS S3**, built as a project to demonstrate AWS cloud skills.  
 The website shows an interactive homepage and a custom error page.
+## Live Demo
+[![View Site - Online](https://img.shields.io/badge/View%20Site-Online-brightgreen)](https://shyam-cloud-25.github.io/my-static-website/)
 
 ## Features
 - IAM user creation and permissions
