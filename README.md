@@ -13,8 +13,8 @@ The website shows an interactive homepage and a custom error page.
 - Interactive homepage with a welcome message
 
 ## Screenshots
-![Homepage](screenshots/home-page.png.png)
-![Error Page](screenshots/error.png.png)
+[Homepage](screenshots/home-page.png.png)
+[Error Page](screenshots/error.png.png)
 
 ## Steps Followed
 1. Created an IAM user with S3 full access permissions
