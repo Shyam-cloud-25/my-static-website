@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page Not Found - Shyam's Website</title>
+<style>
+  body {
+    background: linear-gradient(to right, #ff4b5c, #f9d423);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 15%;
+  }
+
+  h1 {
+    font-size: 6rem;
+    margin: 0;
+    animation: pulse 1.5s infinite;
+    text-shadow: 0 0 20px white;
+  }
+
+  p {
+    font-size: 1.5rem;
+    margin: 15px 0;
+  }
+
+  a {
+    color: white;
+    background-color: #4facfe;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s;
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  a:hover {
+    background-color: white;
+    color: #4facfe;
+    box-shadow: 0 0 10px white;
+  }
+
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+</style>
+</head>
+<body>
+  <h1>404</h1>
+  <p>Oops! The page you’re looking for doesn’t exist.</p>
+  <p>This is still part of my <strong>Static Website</strong> hosted on AWS S3.</p>
+  <a href="index.html">🏠 Return to Home</a>
+</body>
+</html>

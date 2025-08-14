@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shyam's Static Website</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0; padding: 0;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    color: white; 
+    text-align: center;
+  }
+
+  header {
+    padding: 50px 20px;
+    animation: fadeIn 2s ease-in-out;
+  }
+
+  h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 1.2rem;
+    margin: 8px 0;
+  }
+
+  .highlight {
+    background: white;
+    color: #4facfe;
+    padding: 12px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 1.3rem;
+    animation: bounce 1.5s infinite;
+    box-shadow: 0 0 20px white;
+  }
+
+  @keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Shyam's Website</h1>
+    <p>👋 Hello! My name is <strong>Shyam</strong>.</p>
+    <p>I am passionate about CLOUD and DEVOPS.</p>
+    <p>This is a <strong>Static Website</strong> hosted on AWS S3.</p>
+    <p class="highlight">🎉 Hurray — You accessed Shyam's website successfully!</p>
+  </header>
+</body>
+</html>
