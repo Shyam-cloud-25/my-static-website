@@ -13,7 +13,7 @@ The website shows an interactive homepage and a custom error page.
 - Interactive homepage with a welcome message
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/home-page.png)
 ![Error Page](screenshots/error.png)
 
 ## Steps Followed
